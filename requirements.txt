@@ -1,3 +1,0 @@
-spotipy
-python-telegram-bot
-yt-dlp
